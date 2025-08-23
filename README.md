@@ -1,5 +1,5 @@
 # GO
-> ABC of GO | GO 101|
+> ABC of GO | GO 101
 
 A comprehensive, step-by-step guide to learn Go programming language from beginner to advanced level.
 
